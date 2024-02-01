@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Popp369
+- 👋 Hi, I’m @ViktorPopp369
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning the basics of Unity
 - 💞️ I’m looking to collaborate on game development with Unity or Unreal Engin 5
